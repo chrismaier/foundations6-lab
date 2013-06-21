@@ -7,4 +7,4 @@ Collab for Foundations6...
 foundations6-lab
 ================
 
-Git class - foundations 6
+Git class - Foundations VI
